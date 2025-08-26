@@ -1,0 +1,404 @@
+Uri: https://mc.yandex.ru/watch/100121923
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\watch\100121923
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://optomposhiv.ru/
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\index.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/tild3934-3262-4230-b664-373434303230/InterTight-Regular.woff
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3934-3262-4230-b664-373434303230\InterTight-Regular.woff
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/tild3962-3132-4234-b865-653863316437/InterTight-SemiBold.woff
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3962-3132-4234-b865-653863316437\InterTight-SemiBold.woff
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/tild6163-3138-4937-b037-383337373138/InterTight-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6163-3138-4937-b037-383337373138\InterTight-ExtraBold.woff
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/tild6230-6631-4635-b031-663364373239/InterTight-Bold.woff
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6230-6631-4635-b031-663364373239\InterTight-Bold.woff
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/tild6363-3437-4462-a134-323737633533/InterTight-Black.woff
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6363-3437-4462-a134-323737633533\InterTight-Black.woff
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/tild6663-3964-4639-b131-626162636163/InterTight-Medium.woff
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6663-3964-4639-b131-626162636163\InterTight-Medium.woff
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.one/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/css/tilda-t410-beforeafter-1.0.min.css
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\css\tilda-t410-beforeafter-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-t410-beforeafter-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-t410-beforeafter-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-video-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-video-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-video-processor-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-video-processor-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/tild3165-3731-4665-a335-653362656337/Frame_1279.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3165-3731-4665-a335-653362656337\Frame_1279.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.one/tild3234-6536-4136-b039-653064373063/photo.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3234-6536-4136-b039-653064373063\photo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.one/tild3235-6561-4834-b137-653339363430/photo.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3235-6561-4834-b137-653339363430\photo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.one/tild3337-3039-4365-a238-323538336563/photo.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3337-3039-4365-a238-323538336563\photo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild3362-3331-4736-b963-616664666364/FlagBanner.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3362-3331-4736-b963-616664666364\FlagBanner.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild3364-6166-4564-b764-346636333239/photo.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3364-6166-4564-b764-346636333239\photo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.one/tild3433-3037-4430-a366-633734323162/photo.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3433-3037-4430-a366-633734323162\photo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild3464-3766-4662-b937-393332346639/photo.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3464-3766-4662-b937-393332346639\photo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild3531-6361-4633-a536-353936643332/Eye.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3531-6361-4633-a536-353936643332\Eye.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild3535-3632-4637-a264-316239646665/WhatsApp_Image_2025-.jpeg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3535-3632-4637-a264-316239646665\WhatsApp_Image_2025-.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.one/tild3630-6130-4164-b338-326439336462/photo.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3630-6130-4164-b338-326439336462\photo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild3639-3738-4666-b130-316233623237/warehouse-employees-.jpg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3639-3738-4666-b130-316233623237\warehouse-employees-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.one/tild3664-3963-4430-a631-366366653365/photo.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3664-3963-4430-a631-366366653365\photo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.one/tild3732-6162-4539-b435-616662663637/photo.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3732-6162-4539-b435-616662663637\photo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild3737-3663-4165-b330-643663623033/Vector.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3737-3663-4165-b330-643663623033\Vector.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild3762-6236-4439-b166-646134353035/logotip.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3762-6236-4439-b166-646134353035\logotip.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild3862-3034-4433-b764-636365356536/kartinki-stroiki-1.jpg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3862-3034-4433-b764-636365356536\kartinki-stroiki-1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.one/tild3961-3166-4430-b762-316563306238/ohrana-skladov-i-skl.jpg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3961-3166-4430-b762-316563306238\ohrana-skladov-i-skl.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.one/tild6139-6536-4237-b330-323461373633/woman-customer-looki.jpg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6139-6536-4237-b330-323461373633\woman-customer-looki.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.one/tild6163-6131-4061-a165-356664366365/image_13.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6163-6131-4061-a165-356664366365\image_13.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.one/tild6235-3964-4066-b865-616266323465/close-up-woman-holdi.jpg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6235-3964-4066-b865-616266323465\close-up-woman-holdi.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.one/tild6239-6434-4235-b933-373333316630/_2.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6239-6434-4235-b933-373333316630\_2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild6264-3463-4130-b766-343836313839/photo.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6264-3463-4130-b766-343836313839\photo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.one/tild6435-6663-4866-a634-333039616265/ff07de3924b2c9415e3f.jpg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6435-6663-4866-a634-333039616265\ff07de3924b2c9415e3f.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.one/tild6437-6634-4464-b734-366336646263/_.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6437-6634-4464-b734-366336646263\_.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.one/tild6462-6330-4836-b665-366265353161/149765.jpg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6462-6330-4836-b665-366265353161\149765.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.one/tild6462-6333-4438-b631-353765613933/Frame_1279.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6462-6333-4438-b631-353765613933\Frame_1279.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.one/tild6661-3561-4632-b266-663031633738/photo.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6661-3561-4632-b266-663031633738\photo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/tild6663-3163-4038-a338-656332356335/photo.svg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6663-3163-4038-a338-656332356335\photo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/ws/project12285445/tilda-blocks-page63727907.min.css?t=1752010603
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\ws\project12285445\tilda-blocks-page63727907.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/ws/project12285445/tilda-blocks-page63727907.min.js?t=1752010603
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\ws\project12285445\tilda-blocks-page63727907.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.one/tild3062-6333-4833-a631-343665303137/-/resize/20x/top-view-sewing-acce.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3062-6333-4833-a631-343665303137\-\resize\20x\top-view-sewing-acce.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3132-3633-4637-b564-363133663861/-/resizeb/20x/WhatsApp_Image_2025-.jpeg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3132-3633-4637-b564-363133663861\-\resizeb\20x\WhatsApp_Image_2025-.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild3136-3634-4465-b534-613964366533/-/resize/20x/phone-flip.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3136-3634-4465-b534-613964366533\-\resize\20x\phone-flip.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3231-3738-4466-b335-333362353832/-/resizeb/20x/WhatsApp_Image_2025-.jpeg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3231-3738-4466-b335-333362353832\-\resizeb\20x\WhatsApp_Image_2025-.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild3331-3432-4262-b165-666137666330/-/resize/20x/shirt-long-sleeve.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3331-3432-4262-b165-666137666330\-\resize\20x\shirt-long-sleeve.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3333-3437-4363-a337-613637386130/-/resize/20x/whatsapp-5.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3333-3437-4363-a337-613637386130\-\resize\20x\whatsapp-5.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3362-3935-4335-b335-653430633265/-/resizeb/20x/WhatsApp_Image_2025-.jpeg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3362-3935-4335-b335-653430633265\-\resizeb\20x\WhatsApp_Image_2025-.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild3363-6435-4366-b639-653865376135/-/resize/20x/Timer.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3363-6435-4366-b639-653865376135\-\resize\20x\Timer.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3434-3062-4764-b461-336566333765/-/resize/20x/___1.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3434-3062-4764-b461-336566333765\-\resize\20x\___1.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3434-3964-4837-b138-656434653961/-/resize/20x/front-view-dress-for.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3434-3964-4837-b138-656434653961\-\resize\20x\front-view-dress-for.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3561-3137-4232-b166-663431626366/-/resize/20x/Cloud_19.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3561-3137-4232-b166-663431626366\-\resize\20x\Cloud_19.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3633-3665-4966-b834-613664343033/-/resize/20x/photo.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3633-3665-4966-b834-613664343033\-\resize\20x\photo.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3661-3131-4737-a537-343663363830/-/resizeb/20x/WhatsApp_Image_2025-.jpeg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3661-3131-4737-a537-343663363830\-\resizeb\20x\WhatsApp_Image_2025-.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild3661-6530-4763-b438-313932353466/-/resize/20x/telegram.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3661-6530-4763-b438-313932353466\-\resize\20x\telegram.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3730-6437-4865-a466-306362653861/-/resize/20x/phone-call.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3730-6437-4865-a466-306362653861\-\resize\20x\phone-call.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3734-3061-4263-a237-343766643761/-/resize/20x/download.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3734-3061-4263-a237-343766643761\-\resize\20x\download.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3764-3736-4037-b239-636333613465/-/resize/20x/_app_umnaya_kamera_n.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3764-3736-4037-b239-636333613465\-\resize\20x\_app_umnaya_kamera_n.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3764-6332-4464-b434-393630316430/-/resizeb/20x/WhatsApp_Image_2025-.jpeg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3764-6332-4464-b434-393630316430\-\resizeb\20x\WhatsApp_Image_2025-.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild3764-6664-4262-b435-653233306235/-/resize/20x/-2.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3764-6664-4262-b435-653233306235\-\resize\20x\-2.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3930-6536-4435-a130-363331363530/-/resizeb/20x/WhatsApp_Image_2025-.jpeg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3930-6536-4435-a130-363331363530\-\resizeb\20x\WhatsApp_Image_2025-.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild3932-3366-4364-b265-363465306362/-/resize/20x/iphone.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3932-3366-4364-b265-363465306362\-\resize\20x\iphone.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3964-6135-4164-b761-383562656664/-/resize/20x/down-right-arrow-2.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild3964-6135-4164-b761-383562656664\-\resize\20x\down-right-arrow-2.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6134-3862-4161-b438-666566366535/-/resize/20x/truck-side.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6134-3862-4161-b438-666566366535\-\resize\20x\truck-side.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6138-3538-4764-b131-396133326263/-/resize/20x/Frame_11.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6138-3538-4764-b131-396133326263\-\resize\20x\Frame_11.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6263-6632-4965-a531-313564316561/-/resize/20x/envelope.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6263-6632-4965-a531-313564316561\-\resize\20x\envelope.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6264-6633-4438-a237-303538343039/-/resizeb/20x/WhatsApp_Image_2025-.jpeg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6264-6633-4438-a237-303538343039\-\resizeb\20x\WhatsApp_Image_2025-.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild6361-3865-4630-b061-343863373031/-/resize/20x/dress_.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6361-3865-4630-b061-343863373031\-\resize\20x\dress_.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6430-6436-4664-b237-666662386232/-/resize/20x/lush-monstera-delici.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6430-6436-4664-b237-666662386232\-\resize\20x\lush-monstera-delici.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6461-3039-4138-a632-346263303237/-/resize/20x/viber-2.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6461-3039-4138-a632-346263303237\-\resize\20x\viber-2.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6530-3436-4039-b666-303130636537/-/resize/20x/layers-3.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6530-3436-4039-b666-303130636537\-\resize\20x\layers-3.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6632-3365-4061-b437-376664383731/-/resize/20x/corporate-young-entr.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6632-3365-4061-b437-376664383731\-\resize\20x\corporate-young-entr.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6633-6663-4966-b332-386364376262/-/resize/20x/c2d844f4a7283c597c14.jpg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6633-6663-4966-b332-386364376262\-\resize\20x\c2d844f4a7283c597c14.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild6634-6634-4265-a536-313438343030/-/resize/20x/social-2.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6634-6634-4265-a536-313438343030\-\resize\20x\social-2.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6664-3335-4539-a361-353032366238/-/resizeb/20x/WhatsApp_Image_2025-.jpeg
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6664-3335-4539-a361-353032366238\-\resizeb\20x\WhatsApp_Image_2025-.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild6664-6332-4964-a331-646439613133/-/resize/20x/image_10.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6664-6332-4964-a331-646439613133\-\resize\20x\image_10.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6665-3462-4836-b339-383663363864/-/resize/20x/image_10-PhotoRoom_2.png
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\tild6665-3462-4836-b339-383663363864\-\resize\20x\image_10-PhotoRoom_2.png
+Content Type: image/png
+
+Uri: https://tilda.ws/img/imgfishsquare.gif
+File Name: C:\Downloaded Web Sites\optomposhiv.ru\img\imgfishsquare.gif
+Content Type: image/gif
+
